@@ -1,1 +1,4 @@
-boh apa skirr 
+public int main void()
+{
+
+}
